@@ -1,0 +1,38 @@
+# Env
+.env
+.env.*
+
+# Virtual env
+ai_env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Cache (specific only)
+cache/
+webapp/backend/cache/
+
+# Outputs (IMPORTANT)
+webapp/backend/outputs/
+output/
+
+# Uploads (IMPORTANT)
+webapp/backend/uploads/
+
+# Extracted temp files
+webapp/backend/extracted/
+
+# Frontend build
+webapp/frontend/dist/
+
+# IDE
+.idea/
+*.iml
+
+# Generated files
+*.docx
+*.png
